@@ -1,0 +1,4 @@
+{
+  "pathLandRegistryCsv": "./pp-complete.csv",
+  "pathToModel": "./model"
+}
